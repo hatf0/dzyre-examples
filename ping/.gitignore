@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ping
+ping.so
+ping.dylib
+ping.dll
+ping.a
+ping.lib
+ping-test-*
+*.exe
+*.o
+*.obj
+*.lst
